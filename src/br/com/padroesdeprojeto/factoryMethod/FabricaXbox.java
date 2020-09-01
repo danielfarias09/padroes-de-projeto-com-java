@@ -1,4 +1,4 @@
-package br.com.padroesdeprojeto.builder.factoryMethod;
+package br.com.padroesdeprojeto.factoryMethod;
 
 public class FabricaXbox implements VideoGameFactory {
 

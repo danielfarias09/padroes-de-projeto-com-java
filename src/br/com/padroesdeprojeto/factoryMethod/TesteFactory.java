@@ -1,4 +1,4 @@
-package br.com.padroesdeprojeto.builder.factoryMethod;
+package br.com.padroesdeprojeto.factoryMethod;
 
 //O Padrão Factory Method define uma interface para criar um objeto, mas deixa as subclasses decidirem
 //qual objeto instanciar.
